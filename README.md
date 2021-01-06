@@ -1,4 +1,7 @@
-### Hi there 👋
+### Olá, me chamo Eduardo Quadreli da Silva, atuei como suporte de T.I. na Prefeitura Municipal de Potirendaba, Bacharel em Ciência da Computação, com o trabalho de conclusão de curso na área de visão computacional voltado a saúde. 
+### Amante de tecnologia, também com interesse sobre assuntos de Design e Computação Forense.
+
+Linkedin > https://www.linkedin.com/in/eduardo-quadreli-da-silva-912848159/
 
 <!--
 **EduardoQuadreli/EduardoQuadreli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
